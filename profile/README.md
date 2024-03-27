@@ -10,4 +10,4 @@
 
 dope projects is a **secret facility**, to build dope projects!
 
-Bunch of builders around the world to shape the future. Joining in hackathons, where we create solutions for a better world."
+Bunch of builders around the world to shape the future. Joining hackathons, where we create solutions for a better world."
