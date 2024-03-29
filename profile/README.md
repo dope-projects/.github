@@ -1,7 +1,6 @@
-<div align="center">
+![a-synthwave-style-sunset-above-the-reflecting-water-of-the-sea-digital-art](https://github.com/dope-projects/.github/assets/63906053/687249de-a672-40a1-8650-4641fd9b31aa)<div align="center">
 <a href="https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=zoxide_20231001">
-  <div>
-    <img src="https://github.com/dope-projects/.github/assets/63906053/b7ee6ac3-2be1-4c98-b189-265d316626b2" width="230" alt="Warp" />
+  <div>    
   </div>
 </a>
   
